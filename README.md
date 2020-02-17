@@ -1,6 +1,4 @@
-# tip_caltulator
-
-A new Flutter project.
+# Tip Calculator
 
 ## Getting Started
 
